@@ -1,4 +1,4 @@
-#### *"No pain, no gain."*
+### *"No pain, no gain."*
 
 <!--
 **slpires/slpires** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
