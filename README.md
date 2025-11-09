@@ -1,4 +1,4 @@
-### *"No pain, no gain."*
+### *"Tudo é "difícil"! Escolha o seu "difícil" e FAÇA!"*
 
 <!--
 **slpires/slpires** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
